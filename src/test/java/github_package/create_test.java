@@ -6,7 +6,7 @@ public class create_test {
 	@Test
 	public void create()
 	{
-		System.out.println("===========created==========");
+		System.out.println("===========creat==========");
 		
 	}
 	
