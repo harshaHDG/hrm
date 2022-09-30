@@ -4,12 +4,13 @@ import org.testng.annotations.Test;
 
 public class create_test {
 	@Test
+	public void creatharsgha()
+	{
+		System.out.println("_______________create automatic__________");
+=======
 	public void create()
 	{
 		System.out.println("===========created==========");
-		
-		
-		
 		
 	}
 
