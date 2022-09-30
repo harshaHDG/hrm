@@ -7,8 +7,11 @@ public class create_test {
 	public void creatharsgha()
 	{
 		System.out.println("_______________create automatic__________");
+=======
+	public void create()
+	{
+		System.out.println("===========created==========");
 		
 	}
-	
 
 }
